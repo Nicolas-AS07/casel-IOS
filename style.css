@@ -2,6 +2,9 @@ body{
     margin: 0;
     padding: 0;
     background-color: rgb(254, 255, 174);
+    background-image: url(imagens/sunset-3563482_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1{
